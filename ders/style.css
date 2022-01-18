@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.adam{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 250px 0;
+    text-align: center;
+}
+.adam a{
+    text-decoration: none;
+    background-color: blue;
+    color: wheat;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+.adam h1{
+    font-size: 80px;
+}
+.adam h2{
+    margin-bottom: 60px;
+}
+.heyvan{
+    text-align: center;
+    padding: 200px 0;
+}
+.heyvan .ag{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 14px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    .heyvan h1{
+        margin-bottom: 30px;
+    }
+}
+.heyvan h1{
+    margin-bottom: 30px;
+}
+.aj{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 250px 0;
+}
+.aj a{
+    background-color: blue;
+    color: wheat;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.aj h1{
+    font-size: 65px;
+    margin-bottom: 40px;
+}
+.bill{
+    text-align: center;
+}
+.box{
+    float: left;
+    width: 50%;
+}
+img{
+    width: 100%;
+
+}
+.gates{
+    width: 70%;
+    margin: 0 auto;
+    ;
+}
+.box h1{
+    position: absolute;
+    left: 10px;
+    bottom: 20px;
+
+
+}
+.box{
+    position: relative;
+}
+.box:hover{
+    transform: scale(0.8);
+    transition: 1s;}
+    .mark{
+        overflow: hidden;
+    }
+    .hop{
+        text-align: center;
+        background-color: blue;
+        padding: 170px 0;
+        margin-top: 100px;
+    }
+    .hop .lip{
+        background-color: black;
+        color: wheat;
+        padding: 14px 25px;
+        text-decoration: none;
+        border-radius: 6px;
+    }
+    .hop .fil{
+        background-color: wheat;
+        color: black;
+        padding: 14px 25px;
+        text-decoration: none;
+        border-radius: 6px;
+    }
+    .hop h1{
+        color: wheat;
+    }
+    
+    .hop h1{
+        margin-bottom: 40px;
+    }
+    
+    .ev{
+        text-align: center;
+        font-size: 50px;
+    }
+     h6{
+        font-size: 15px;
+        text-align: center;
+     }
+     .ev i{
+         background-color: blue;
+         color: wheat;
+         border-radius: 100%;
+         padding: 20px;
+         font-size: 18px;
+     }
+     .ev i:hover{
+         transform: translateY(-10px);
+         transition: 0.5s;
+     }
+     .map{
+         margin-top: 70px;
+         margin-bottom: 70px;
+     }
